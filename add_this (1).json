@@ -1,0 +1,10 @@
+{
+  "name": "add_this",
+  "url": "sdf",
+  "method": "post",
+  "skip_tls_verify": false,
+  "headers": {},
+  "template": "test",
+  "emails": [],
+  "type": "http"
+}
