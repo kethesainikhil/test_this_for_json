@@ -1,7 +1,6 @@
 {
   "name": "dsff",
   "org_id": "default",
-  "stream_type": "logs",
   "stream_name": "e2e_automate",
   "is_real_time": false,
   "query_condition": {
