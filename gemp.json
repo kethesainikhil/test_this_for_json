@@ -1,0 +1,7 @@
+{
+  "name": "sanitytemp-1738756853115",
+  "body": "{\"text\": \"{alert_name} is active\"}",
+  "isDefault": true,
+  "type": "http",
+  "title": ""
+}
