@@ -1,0 +1,131 @@
+[
+{
+  "name": "dsff",
+  "org_id": "default",
+  "stream_type": "logs",
+  "stream_name": "e2e_automate",
+  "is_real_time": false,
+  "query_condition": {
+    "type": "sql",
+    "conditions": [],
+    "sql": "select code from \"ksldjfksjf\"",
+    "promql": "",
+    "promql_condition": null,
+    "aggregation": null,
+    "vrl_function": null,
+    "search_event_type": null,
+    "multi_time_range": []
+  },
+  "trigger_condition": {
+    "period": 10,
+    "operator": ">=",
+    "threshold": 3,
+    "frequency": 1,
+    "cron": "",
+    "frequency_type": "minutes",
+    "silence": 10,
+    "timezone": "UTC",
+    "tolerance_in_secs": null
+  },
+  "destinations": [
+    "test_destination_3"
+  ],
+  "context_attributes": {},
+  "row_template": "",
+  "description": "",
+  "enabled": true,
+  "tz_offset": 0,
+  "last_triggered_at": 1735039757966149,
+  "last_satisfied_at": null,
+  "owner": "root@example.com",
+  "updated_at": "2024-12-24T10:38:36.014394Z",
+  "last_edited_by": "root@example.com",
+  "uuid": "9b272e53-133a-4de1-8e22-16ccbd23869e"
+},
+{
+  "name": "dsff",
+  "org_id": "default",
+  "stream_type": "logs",
+  "stream_name": "e2e_automate",
+  "is_real_time": false,
+  "query_condition": {
+    "type": "sql",
+    "conditions": [],
+    "sql": "select code from \"ksldjfksjf\"",
+    "promql": "",
+    "promql_condition": null,
+    "aggregation": null,
+    "vrl_function": null,
+    "search_event_type": null,
+    "multi_time_range": []
+  },
+  "trigger_condition": {
+    "period": 10,
+    "operator": ">=",
+    "threshold": 3,
+    "frequency": 1,
+    "cron": "",
+    "frequency_type": "minutes",
+    "silence": 10,
+    "timezone": "UTC",
+    "tolerance_in_secs": null
+  },
+  "destinations": [
+    "test_destination_3"
+  ],
+  "context_attributes": {},
+  "row_template": "",
+  "description": "",
+  "enabled": true,
+  "tz_offset": 0,
+  "last_triggered_at": 1735039757966149,
+  "last_satisfied_at": null,
+  "owner": "root@example.com",
+  "updated_at": "2024-12-24T10:38:36.014394Z",
+  "last_edited_by": "root@example.com",
+  "uuid": "9b272e53-133a-4de1-8e22-16ccbd23869e"
+},
+{
+  "name": "dsff",
+  "org_id": "default",
+  "stream_type": "logs",
+  "stream_name": "e2e_automate",
+  "is_real_time": false,
+  "query_condition": {
+    "type": "sql",
+    "conditions": [],
+    "sql": "select code from \"ksldjfksjf\"",
+    "promql": "",
+    "promql_condition": null,
+    "aggregation": null,
+    "vrl_function": null,
+    "search_event_type": null,
+    "multi_time_range": []
+  },
+  "trigger_condition": {
+    "period": 10,
+    "operator": ">=",
+    "threshold": 3,
+    "frequency": 1,
+    "cron": "",
+    "frequency_type": "minutes",
+    "silence": 10,
+    "timezone": "UTC",
+    "tolerance_in_secs": null
+  },
+  "destinations": [
+    "test_destination_3"
+  ],
+  "context_attributes": {},
+  "row_template": "",
+  "description": "",
+  "enabled": true,
+  "tz_offset": 0,
+  "last_triggered_at": 1735039757966149,
+  "last_satisfied_at": null,
+  "owner": "root@example.com",
+  "updated_at": "2024-12-24T10:38:36.014394Z",
+  "last_edited_by": "root@example.com",
+  "uuid": "9b272e53-133a-4de1-8e22-16ccbd23869e"
+}
+]
