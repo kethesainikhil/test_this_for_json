@@ -1,0 +1,10 @@
+{
+  "name": "d-1738757928692",
+  "url": "testhjksdf",
+  "method": "post",
+  "skip_tls_verify": false,
+  "headers": {},
+  "template": "sanitytemp-1738756853115",
+  "emails": [],
+  "type": "http"
+}
